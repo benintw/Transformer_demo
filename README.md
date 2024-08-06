@@ -55,6 +55,7 @@ It allows you to configure various parameters of the Transformer model and visua
 Below is an example of how the application displays the input and output shapes and training progress:
 
 ![Transformer Architecture](model.png)
+Figure adapted from "Attention is All You Need" (Vaswani et al., 2017)
 
 ![Example Screenshot](image.png)
 
@@ -65,6 +66,10 @@ The main parts of the code include:
 - **Model Initialization**: Initializes the Transformer model with the specified configuration.
 - **Input and Output Shape Visualization**: Displays the shapes of various tensors in the Transformer architecture.
 - **Training Loop**: Allows for training the model, updating progress bars, and visualizing the loss.
+
+## Reference
+
+This project is inspired by the original Transformer model introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). The architecture figure used in this project is adapted from the same paper.
 
 ## Contributing
 
