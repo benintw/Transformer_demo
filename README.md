@@ -35,11 +35,11 @@ It allows you to configure various parameters of the Transformer model and visua
 
 ### Running the App
 
-1. Save the provided Python script in a file, e.g., `app.py`.
+1. Save the provided Python script in a file, e.g., `main.py`.
 
 2. Run the Streamlit app:
    ```sh
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ### Using the App
